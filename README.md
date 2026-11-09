@@ -8,7 +8,7 @@
 
 工作台支持使用你自己的本地网络出口连接微信，就像你本地登录了iPad微信一样。
 
-相关项目：[公开接口文档（Control Plane API v1）](https://github.com/wechat-devp/-iPad-wechat-)。
+相关项目：[iPad微信账号基础服务（Control Plane API v1）](https://github.com/wechat-devp/-iPad-wechat-)。
 
 > 本文截图来自实际产品的体验界面，账号、作品、线索、私信与统计均为虚构演示数据。
 > 截图用于展示交互与页面组织方式，与生产运行验证或实际业务效果基本一致。
